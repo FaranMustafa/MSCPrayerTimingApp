@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912995500228",
+    "project_id": "msequiz-112ab",
+    "storage_bucket": "msequiz-112ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912995500228:android:1d19ee26edbf4bba2e8991",
+        "android_client_info": {
+          "package_name": "com.prayertimingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912995500228-j4jo1kfk5artaq0m8u0m0fu1i95o661c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQ6YHVu8oaov-9iZIW9E5qfI5DjknmxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912995500228-j4jo1kfk5artaq0m8u0m0fu1i95o661c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+module Pods_PrayerTimingApp_PrayerTimingAppTests {
+  umbrella header "Pods-PrayerTimingApp-PrayerTimingAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

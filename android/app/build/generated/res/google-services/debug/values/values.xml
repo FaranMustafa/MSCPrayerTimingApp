@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">912995500228-j4jo1kfk5artaq0m8u0m0fu1i95o661c.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">912995500228</string>
+    <string name="google_api_key" translatable="false">AIzaSyCwQ6YHVu8oaov-9iZIW9E5qfI5DjknmxA</string>
+    <string name="google_app_id" translatable="false">1:912995500228:android:1d19ee26edbf4bba2e8991</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCwQ6YHVu8oaov-9iZIW9E5qfI5DjknmxA</string>
+    <string name="google_storage_bucket" translatable="false">msequiz-112ab.appspot.com</string>
+    <string name="project_id" translatable="false">msequiz-112ab</string>
+</resources>
